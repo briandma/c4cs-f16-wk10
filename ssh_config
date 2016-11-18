@@ -1,0 +1,5 @@
+# CAEN
+Host brian
+    HostName login.engin.umich.edu
+    User briandma
+    Compression yes
